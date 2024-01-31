@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue May 29 20:24:34 2018
 
-@author: Zhenguo Nie, Haoliang Jiang
 """
 #768*6
 import os
